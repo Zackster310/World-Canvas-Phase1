@@ -26,6 +26,7 @@ function draw(){
 
     
     stroke(0);
+    strokeWeight(5);
     noFill();
 
     for(var i = 0; i < drawing.length ; i++){
